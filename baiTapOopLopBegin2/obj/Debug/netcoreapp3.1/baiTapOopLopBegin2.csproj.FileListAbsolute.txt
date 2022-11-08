@@ -1,0 +1,13 @@
+/Users/tringuyen/RiderProjects/baiTapOopLopBegin2/baiTapOopLopBegin2/bin/Debug/netcoreapp3.1/baiTapOopLopBegin2.deps.json
+/Users/tringuyen/RiderProjects/baiTapOopLopBegin2/baiTapOopLopBegin2/bin/Debug/netcoreapp3.1/baiTapOopLopBegin2.runtimeconfig.json
+/Users/tringuyen/RiderProjects/baiTapOopLopBegin2/baiTapOopLopBegin2/bin/Debug/netcoreapp3.1/baiTapOopLopBegin2.runtimeconfig.dev.json
+/Users/tringuyen/RiderProjects/baiTapOopLopBegin2/baiTapOopLopBegin2/bin/Debug/netcoreapp3.1/baiTapOopLopBegin2.dll
+/Users/tringuyen/RiderProjects/baiTapOopLopBegin2/baiTapOopLopBegin2/bin/Debug/netcoreapp3.1/baiTapOopLopBegin2.pdb
+/Users/tringuyen/RiderProjects/baiTapOopLopBegin2/baiTapOopLopBegin2/obj/Debug/netcoreapp3.1/baiTapOopLopBegin2.csproj.AssemblyReference.cache
+/Users/tringuyen/RiderProjects/baiTapOopLopBegin2/baiTapOopLopBegin2/obj/Debug/netcoreapp3.1/baiTapOopLopBegin2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tringuyen/RiderProjects/baiTapOopLopBegin2/baiTapOopLopBegin2/obj/Debug/netcoreapp3.1/baiTapOopLopBegin2.AssemblyInfoInputs.cache
+/Users/tringuyen/RiderProjects/baiTapOopLopBegin2/baiTapOopLopBegin2/obj/Debug/netcoreapp3.1/baiTapOopLopBegin2.AssemblyInfo.cs
+/Users/tringuyen/RiderProjects/baiTapOopLopBegin2/baiTapOopLopBegin2/obj/Debug/netcoreapp3.1/baiTapOopLopBegin2.csproj.CoreCompileInputs.cache
+/Users/tringuyen/RiderProjects/baiTapOopLopBegin2/baiTapOopLopBegin2/obj/Debug/netcoreapp3.1/baiTapOopLopBegin2.dll
+/Users/tringuyen/RiderProjects/baiTapOopLopBegin2/baiTapOopLopBegin2/obj/Debug/netcoreapp3.1/baiTapOopLopBegin2.pdb
+/Users/tringuyen/RiderProjects/baiTapOopLopBegin2/baiTapOopLopBegin2/obj/Debug/netcoreapp3.1/baiTapOopLopBegin2.genruntimeconfig.cache
