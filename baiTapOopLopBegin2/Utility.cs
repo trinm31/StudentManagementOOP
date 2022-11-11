@@ -10,7 +10,7 @@ namespace baiTapOopLopBegin2
             var max = 1;
             if (students.Count > 0)
             {
-                max = students.Max(_ => _.ID) + 1;
+                max = students.Max(s => s.ID) + 1;
             }
             return max;
         }
